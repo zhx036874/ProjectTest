@@ -1,0 +1,17 @@
+﻿  Generate moc_predefs.h
+  main.cpp
+  task.cpp
+  threadpool.cpp
+e:\aicodingtest\src\threadpool.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\aicodingtest\src\task.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\aicodingtest\include\task.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\task.cpp)
+e:\aicodingtest\include\threadpool.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\threadpool.cpp)
+e:\aicodingtest\src\main.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\aicodingtest\include\threadpool.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\main.cpp)
+e:\aicodingtest\include\task.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\threadpool.cpp)
+e:\aicodingtest\include\task.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\main.cpp)
+  moc_task.cpp
+  moc_threadpool.cpp
+e:\aicodingtest\include\threadpool.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_threadpool.cpp)
+e:\aicodingtest\include\task.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_task.cpp)
+  AICodingTest.vcxproj -> E:\AICodingTest\debug\AICodingTest.exe
