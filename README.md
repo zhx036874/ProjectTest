@@ -81,3 +81,6 @@ connect(&pool, &ThreadPool::taskFailed, [](std::shared_ptr<Task> task, const QSt
 3. 错误处理
    - 建议为每个任务添加错误处理逻辑
    - 监听线程池的错误信号
+   - 
+4.  该项目全由AIIDE生成，代码经测试，请谨慎使用。
+   -该项目分别由Cusor 与Trace AIIDE生成，请谨慎使用。
