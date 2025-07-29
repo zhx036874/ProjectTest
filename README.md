@@ -84,3 +84,4 @@ connect(&pool, &ThreadPool::taskFailed, [](std::shared_ptr<Task> task, const QSt
    - 
 4.  该项目全由AIIDE生成，代码经测试，请谨慎使用。
    -该项目分别由Cusor 与Trace AIIDE生成，请谨慎使用。
+5
